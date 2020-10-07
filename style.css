@@ -1,0 +1,23 @@
+body{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius:20px; 
+    background-color: grey;
+}
+.someClass h1{
+    color: lightgreen;
+    text-align: center;
+}
+.h3Header h3{
+    color: blue;
+}
+
+p{
+    border-style: solid;
+    color:red;
+    border-color: black;
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 20px;
+}
